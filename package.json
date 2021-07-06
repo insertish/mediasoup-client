@@ -1,6 +1,6 @@
 {
-  "name": "mediasoup-client",
-  "version": "3.6.36",
+  "name": "@insertish/mediasoup-client",
+  "version": "3.6.36-esnext",
   "description": "mediasoup client side JavaScript library",
   "contributors": [
     "Iñaki Baz Castillo <ibc@aliax.net> (https://inakibaz.me)",

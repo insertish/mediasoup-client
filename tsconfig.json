@@ -2,10 +2,11 @@
 	"compileOnSave": true,
 	"compilerOptions":
 	{
-		"lib": [ "es2018", "dom" ],
-		"target": "es2017",
-		"module": "commonjs",
-		"moduleResolution": "node",
+		"lib": ["DOM", "ESNext"],
+		"target": "ESNext",
+		"module": "ESNext",
+		"allowSyntheticDefaultImports": true,
+		"moduleResolution": "Node",
 		"esModuleInterop": true,
 		"isolatedModules": true,
 		"strict": true,

@@ -166,7 +166,7 @@ const dataProducer =
 
 [mediasoup-website]: https://mediasoup.org
 [mediasoup-discourse]: https://mediasoup.discourse.group
-[npm-shield-mediasoup-client]: https://img.shields.io/npm/v/mediasoup-client.svg
-[npm-mediasoup-client]: https://npmjs.org/package/mediasoup-client
+[npm-shield-mediasoup-client]: https://img.shields.io/npm/v/@insertish/mediasoup-client.svg
+[npm-mediasoup-client]: https://www.npmjs.com/package/@insertish/mediasoup-client
 [travis-ci-shield-mediasoup-client]: https://travis-ci.com/versatica/mediasoup-client.svg?branch=master
 [travis-ci-mediasoup-client]: https://travis-ci.com/versatica/mediasoup-client
